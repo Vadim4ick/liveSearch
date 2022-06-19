@@ -1,0 +1,30 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.row {
+}
+.form-control-group {
+}
+.spisok {
+}
+.elastic {
+}
+
+li {
+  font-size: 25px;
+}
+
+#elastic {
+  width: 100%;
+  height: 50px;
+  font-size: 25px;
+}
+
+.hide {
+  display: none;
+}
+
+span {
+  color: red;
+}
